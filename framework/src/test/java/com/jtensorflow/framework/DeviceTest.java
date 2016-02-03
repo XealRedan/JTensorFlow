@@ -1,6 +1,6 @@
 package com.jtensorflow.framework;
 
-import org.junit.Test;
+import junit.Test;
 
 /**
  * Created by alexandre on 03/02/16.
